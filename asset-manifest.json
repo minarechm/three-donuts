@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/three-donuts/static/css/main.39a41183.css",
+    "main.js": "/three-donuts/static/js/main.3c69bbf3.js",
+    "index.html": "/three-donuts/index.html",
+    "main.39a41183.css.map": "/three-donuts/static/css/main.39a41183.css.map",
+    "main.3c69bbf3.js.map": "/three-donuts/static/js/main.3c69bbf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a41183.css",
+    "static/js/main.3c69bbf3.js"
+  ]
+}
